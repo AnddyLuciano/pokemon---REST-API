@@ -1,0 +1,28 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "An API Rest to handle pokemons.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Anddy Luciano",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mariadb": "^3.0.2",
+    "mongodb": "^4.13.0",
+    "nodemailer": "^6.9.1",
+    "pokedex-promise-v2": "^4.1.0",
+    "sequelize": "^6.28.0",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
