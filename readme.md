@@ -1,0 +1,1 @@
+POKEMON (server side) : Node JS, Express, Sequelize, Mariadb, jwt, nodemailer, bcrypt
