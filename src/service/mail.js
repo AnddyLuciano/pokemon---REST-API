@@ -16,7 +16,7 @@ module.exports = (app)=>{
                 }
             });
             const mailOptions = {
-                from:'anddysariaka@gmail.com',
+                from:'blablabla@gmail.com',
                 to:to,
                 subject:'Thank you for your mail!',
                 html:`
